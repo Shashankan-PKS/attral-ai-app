@@ -1,5 +1,5 @@
 ## Hello Everyone  👋
-<h3>Online Bus reservation Process</h3>
+<h3>Facebook clone App</h3>
 
 ### Steps to follow the code to run in localhost
 
