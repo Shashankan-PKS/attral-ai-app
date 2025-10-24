@@ -1,3 +1,8 @@
+## Hello Everyone  👋
+<h3>Online Bus reservation Process</h3>
+
+### Steps to follow the code to run in localhost
+
 Step - 1 : Download the file according to the same <br/>
 Step - 2 : Open the folder location in vs code <br/>
 Step - 3 : Open the terminal and type "npm install" <br/>
