@@ -1,0 +1,11 @@
+.sicontent{
+    padding: 20px;
+    justify-items: center;
+}
+.siContainer{
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(43, 73, 149);
+    justify-items: center;
+    border-radius: 10px;
+}

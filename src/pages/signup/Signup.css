@@ -1,0 +1,10 @@
+.sucontent{
+    padding: 20px;
+    display: flex;
+    justify-items: center;
+}
+.suContainer{
+    width: fit-content;
+    background-color: rgb(43, 73, 149);
+    border-radius: 10px;
+}
