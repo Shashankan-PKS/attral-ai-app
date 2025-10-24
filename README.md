@@ -1,4 +1,4 @@
-Step - 1 : Download the file according to the same 
+Step - 1 : Download the file according to the same <br/>
 Step - 2 : Open the folder location in vs code
 Step - 3 : Open the terminal and type "npm install"
 Step - 4 : And then type "npm run dev"
